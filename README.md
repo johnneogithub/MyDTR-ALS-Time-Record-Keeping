@@ -42,5 +42,3 @@
  This project is licensed under the MIT License. See the LICENSE file for more information.
  
  ---
- 
- Feel free to adjust any part of this README to better fit your project! 😊
